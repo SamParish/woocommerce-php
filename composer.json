@@ -1,16 +1,18 @@
 {
-  "name": "jb000/woocommerce-php",
+  "name": "SamParish/woocommerce-php",
   "description": "WooCommerce REST API library for PHP",
   "minimum-stability": "stable",
   "authors": [
     {
       "name": "JB000",
-      "email": "jb000@use.startmail.com"
+      "email": "jb000@use.startmail.com",
+	  "name": "SamParish",
+	  "email": "sirtalen01@googlemail.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "JB000\\WooCommerce\\": "src/"
+      "SamParish\\WooCommerce\\": "src/"
     }
   },
   "require": {
