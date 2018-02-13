@@ -1,0 +1,23 @@
+{
+  "name": "jb000/woocommerce-php",
+  "description": "WooCommerce REST API library for PHP",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "JB000",
+      "email": "jb000@use.startmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "JB000\\WooCommerce\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0",
+    "automattic/woocommerce": "^1.1",
+    "nesbot/carbon": "~1.18",
+    "illuminate/database": "^5.4",
+    "kirkbushell/eloquence": "~2.0"
+  }
+}
