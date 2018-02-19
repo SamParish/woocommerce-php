@@ -6,12 +6,12 @@
  * Time: 09:59
  */
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 
 
 /**
  * Class WCLineItemTax
- * @package JB000\WooooProcessor\Models
+ * @package SamParish\WooooProcessor\Models
  *
  * @property-read string $id
  * @property-read double $total

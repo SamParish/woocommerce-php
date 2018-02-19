@@ -1,11 +1,11 @@
 <?php
 
 
-namespace JB000\WooCommerce\Traits;
+namespace SamParish\WooCommerce\Traits;
 
 
 use Illuminate\Support\Collection;
-use JB000\WooCommerce\Models\WCMeta;
+use SamParish\WooCommerce\Models\WCMeta;
 
 trait HasMeta
 {

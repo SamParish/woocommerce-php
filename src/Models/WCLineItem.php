@@ -1,12 +1,12 @@
 <?php
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 use Illuminate\Support\Collection;
-use JB000\WooCommerce\Traits\HasMeta;
+use SamParish\WooCommerce\Traits\HasMeta;
 
 /**
  * Class WCLineItem
- * @package JB000\WooooProcessor\Models
+ * @package SamParish\WooooProcessor\Models
  *
  * @property-read integer $id
  * @property string $name

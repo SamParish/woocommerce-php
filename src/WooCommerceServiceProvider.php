@@ -1,7 +1,7 @@
 <?php
-namespace JB000\WooCommerce;
+namespace SamParish\WooCommerce;
 use Automattic\WooCommerce\Client;
-use JB000\WooCommerce\Models\Model;
+use SamParish\WooCommerce\Models\Model;
 
 class WooCommerceServiceProvider extends \Illuminate\Support\ServiceProvider
 {

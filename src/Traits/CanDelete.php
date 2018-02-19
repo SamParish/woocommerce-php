@@ -1,10 +1,10 @@
 <?php
 
 
-namespace JB000\WooCommerce\Traits;
+namespace SamParish\WooCommerce\Traits;
 
 
-use JB000\WooCommerce\Models\Model;
+use SamParish\WooCommerce\Models\Model;
 
 trait CanDelete
 {

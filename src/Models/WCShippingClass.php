@@ -1,16 +1,16 @@
 <?php
 
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 
 
-use JB000\WooCommerce\Traits\CanDelete;
-use JB000\WooCommerce\Traits\CanSave;
+use SamParish\WooCommerce\Traits\CanDelete;
+use SamParish\WooCommerce\Traits\CanSave;
 
 /**
  * Class WCShippingClass
  *
- * @package JB000\WooCommerce\Models
+ * @package SamParish\WooCommerce\Models
  *
  * @property-read int $id
  * @property string $name

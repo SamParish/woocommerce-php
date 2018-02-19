@@ -1,7 +1,7 @@
 <?php
 
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 
 
 use Automattic\WooCommerce\Client;

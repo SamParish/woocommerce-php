@@ -1,12 +1,12 @@
 <?php
 
 
-namespace JB000\WooCommerce\Builders;
+namespace SamParish\WooCommerce\Builders;
 
 use Automattic\WooCommerce\HttpClient\HttpClientException;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Support\Collection;
-use JB000\WooCommerce\Models\Model;
+use SamParish\WooCommerce\Models\Model;
 
 class Builder
 {

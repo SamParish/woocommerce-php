@@ -1,16 +1,16 @@
 <?php
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 use Carbon\Carbon;
 use Illuminate\Support\Collection;
-use JB000\WooCommerce\Builders\Builder;
-use JB000\WooCommerce\Traits\CanDelete;
-use JB000\WooCommerce\Traits\CanSave;
-use JB000\WooCommerce\Traits\HasMeta;
+use SamParish\WooCommerce\Builders\Builder;
+use SamParish\WooCommerce\Traits\CanDelete;
+use SamParish\WooCommerce\Traits\CanSave;
+use SamParish\WooCommerce\Traits\HasMeta;
 
 /**
  * Class WCOrder
- * @package JB000\WooooProcessor\Models
+ * @package SamParish\WooooProcessor\Models
  *
  * @property-read integer $id
  * @property integer $parentId

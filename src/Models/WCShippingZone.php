@@ -1,17 +1,17 @@
 <?php
 
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 
 
 use Illuminate\Support\Collection;
-use JB000\WooCommerce\Traits\CanDelete;
-use JB000\WooCommerce\Traits\CanSave;
+use SamParish\WooCommerce\Traits\CanDelete;
+use SamParish\WooCommerce\Traits\CanSave;
 
 /**
  * Class WCShippingZone
  *
- * @package JB000\WooCommerce\Models
+ * @package SamParish\WooCommerce\Models
  *
  * @property-read int $id
  * @property string $name
@@ -34,7 +34,7 @@ class WCShippingZone extends Model
 
 
     /**
-     * @return \JB000\WooCommerce\Builders\Builder
+     * @return \SamParish\WooCommerce\Builders\Builder
      */
     public function locations()
     {
@@ -42,7 +42,7 @@ class WCShippingZone extends Model
     }
 
     /**
-     * @return \JB000\WooCommerce\Builders\Builder
+     * @return \SamParish\WooCommerce\Builders\Builder
      */
     public function methods()
     {

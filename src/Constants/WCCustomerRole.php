@@ -6,7 +6,7 @@
  * Time: 13:40
  */
 
-namespace JB000\WooCommerce\Constants;
+namespace SamParish\WooCommerce\Constants;
 
 
 abstract class WCCustomerRole

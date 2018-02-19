@@ -1,15 +1,15 @@
 <?php
 
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 use Carbon\Carbon;
 use Illuminate\Support\Collection;
-use JB000\WooCommerce\Traits\CanDelete;
-use JB000\WooCommerce\Traits\CanSave;
+use SamParish\WooCommerce\Traits\CanDelete;
+use SamParish\WooCommerce\Traits\CanSave;
 
 /**
  * Class WCCustomer
- * @package JB000\WooooProcessor\Models
+ * @package SamParish\WooooProcessor\Models
  *
  * @property-read integer $id
  * @property-read Carbon $dateCreated

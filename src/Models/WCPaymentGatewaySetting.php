@@ -1,13 +1,13 @@
 <?php
 
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 
 
 /**
  * Class WCPaymentGatewaySetting
  *
- * @package JB000\WooCommerce\Models
+ * @package SamParish\WooCommerce\Models
  *
  * @property-read int $id
  * @property-read string $label

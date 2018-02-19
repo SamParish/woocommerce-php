@@ -1,11 +1,11 @@
 <?php
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 
 
 /**
  * Class WCTaxLineItem
- * @package JB000\WooooProcessor\Models
+ * @package SamParish\WooooProcessor\Models
  *
  * @property-read integer $id
  * @property-read string $rateCode

@@ -6,13 +6,13 @@
  * Time: 09:36
  */
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 
 
 /**
  * Class WCAddress
  *
- * @package JB000\WooCommerce\Models
+ * @package SamParish\WooCommerce\Models
  *
  * @property string $firstName
  * @property string $lastName

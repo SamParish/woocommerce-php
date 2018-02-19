@@ -6,7 +6,7 @@
  * Time: 10:21
  */
 
-namespace JB000\WooCommerce\Constants;
+namespace SamParish\WooCommerce\Constants;
 
 
 abstract class WCOrderStatus

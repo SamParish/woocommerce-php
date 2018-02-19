@@ -1,11 +1,11 @@
 <?php
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 
 
 /**
  * Class WCLineItemMeta
- * @package JB000\WooooProcessor\Models
+ * @package SamParish\WooooProcessor\Models
  *
  * @property-read int $id
  * @property string $key

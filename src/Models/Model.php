@@ -1,12 +1,12 @@
 <?php
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 
 use Carbon\Carbon;
 use Eloquence\Behaviours\CamelCasing;
 use Illuminate\Support\Collection as BaseCollection;
 use Illuminate\Support\Collection;
-use JB000\WooCommerce\Builders\Builder;
+use SamParish\WooCommerce\Builders\Builder;
 
 
 abstract class Model extends BaseModel

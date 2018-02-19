@@ -1,13 +1,13 @@
 <?php
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 use Illuminate\Support\Collection;
 
 
 /**
  * Class WCShippingLineItem
  *
- * @package JB000\WooooProcessor\Models
+ * @package SamParish\WooooProcessor\Models
  *
  * @property-read integer $id
  * @property string $methodTitle

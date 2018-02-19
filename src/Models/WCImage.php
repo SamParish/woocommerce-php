@@ -1,11 +1,11 @@
 <?php
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 use Carbon\Carbon;
 
 /**
  * Class WCImage
- * @package JB000\WooCommerce\Models
+ * @package SamParish\WooCommerce\Models
  *
  * @property int $id
  * @property-read Carbon $dateCreated

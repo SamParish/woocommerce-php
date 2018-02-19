@@ -1,15 +1,15 @@
 <?php
 
 
-namespace JB000\WooCommerce\Models;
-use JB000\WooCommerce\Traits\CanDelete;
-use JB000\WooCommerce\Traits\CanSave;
+namespace SamParish\WooCommerce\Models;
+use SamParish\WooCommerce\Traits\CanDelete;
+use SamParish\WooCommerce\Traits\CanSave;
 
 
 /**
  * Class WCTaxRate
  *
- * @package JB000\WooCommerce\Models
+ * @package SamParish\WooCommerce\Models
  *
  * @property-read int $id
  * @property string $country

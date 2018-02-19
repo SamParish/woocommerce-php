@@ -1,19 +1,19 @@
 <?php
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 
 use Carbon\Carbon;
 use Illuminate\Support\Collection;
-use JB000\WooCommerce\Builders\ProductBuilder;
-use JB000\WooCommerce\Traits\CanDelete;
-use JB000\WooCommerce\Traits\CanQuery;
-use JB000\WooCommerce\Traits\CanSave;
-use JB000\WooCommerce\Traits\HasMeta;
+use SamParish\WooCommerce\Builders\ProductBuilder;
+use SamParish\WooCommerce\Traits\CanDelete;
+use SamParish\WooCommerce\Traits\CanQuery;
+use SamParish\WooCommerce\Traits\CanSave;
+use SamParish\WooCommerce\Traits\HasMeta;
 
 /**
  * Class WCProduct
  *
-*@package JB000\WooCommerce\Models
+*@package SamParish\WooCommerce\Models
  *
  * @property-read int $id
  * @property string $name
@@ -134,7 +134,7 @@ class WCProduct extends Model
 
 
     /**
-     * @return \JB000\WooCommerce\Builders\Builder
+     * @return \SamParish\WooCommerce\Builders\Builder
      */
     public function variations()
     {

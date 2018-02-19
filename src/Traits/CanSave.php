@@ -1,12 +1,12 @@
 <?php
 
 
-namespace JB000\WooCommerce\Traits;
+namespace SamParish\WooCommerce\Traits;
 
 
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
-use JB000\WooCommerce\Models\Model;
+use SamParish\WooCommerce\Models\Model;
 
 trait CanSave
 {

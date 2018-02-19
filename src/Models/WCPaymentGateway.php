@@ -1,16 +1,16 @@
 <?php
 
 
-namespace JB000\WooCommerce\Models;
+namespace SamParish\WooCommerce\Models;
 
 
 use Illuminate\Database\Eloquent\Collection;
-use JB000\WooCommerce\Traits\CanSave;
+use SamParish\WooCommerce\Traits\CanSave;
 
 /**
  * Class WCPaymentGateway
  *
- * @package JB000\WooCommerce\Models
+ * @package SamParish\WooCommerce\Models
  *
  * @property-read string $id
  * @property string $title
